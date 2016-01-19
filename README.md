@@ -3,3 +3,7 @@ This repository contains the notes and hw codes for CS61B, Data Structures, UC B
 
 
 The instructor is Prof. Jonathan Shewchuk
+
+
+
+(https://www.youtube.com/playlist?list=PLBB2FC97598A3B254)
